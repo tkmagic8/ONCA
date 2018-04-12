@@ -59,8 +59,24 @@ Begin 0.9% saline as primary line to keep vein open.
 Verify that patient meets the lab parameters for administration. 
 Perform assessment for toxicity and tolerance.
 Ensure patient has had baseline and subsequent EF% if ordered by MD.
-See MAR for rituximab titration schedule.
-Infusion-related reaction with rituximab: STOP infusion immediately, and begin primary solution at wide open rate, notify MD, begin monitoring vital signs and administer PRN medication for infusion reaction; 30 minutes after symptoms have resolved restart rituximab infusion at 50% of the rate when reaction occurred.
+For initial rituximab infusion (No prior rituximab):
+~ START rate at 50 mg per hour for 30 minutes;   
+~ If no reaction, increase rate to 100 mg per hour for 30 minutes;   
+~ If no reaction, increase rate to 150 mg per hour for 30 minutes;   
+~ If no reaction, increase rate to 200 mg per hour for 30 minutes;   
+~ If no reaction, increase rate to 250 mg per hour for 30 minutes;   
+~ If no reaction, increase rate to 300 mg per hour for 30 minutes;   
+~ If no reaction, increase rate to 350 mg per hour for 30 minutes;   
+~ If no reaction, increase rate to 400 mg to MAXIMUM of 400 mg per hour until infusion complete.       
+For subsequent infusions (if the patient meets eligibility criteria and did not have any previous infusion reaction):   
+~ Give 20% of dose over 30 minutes. If no hypersensitivity reactions occur, give remaining 80% of dose over 60 minutes.
+Eligibility criteria for patient to receive rapid-infusion rituximab: 
+~ Previously untreated follicular NHL and diffuse large B-cell NHL who are receiving a corticosteroid as part of their combination chemotherapy regimen.
+~ Absence of clinically significant cardiovascular disease (e.g. CHF, PVD ventricular arrhythmia requiring medication, and uncontrolled HTN).
+~ Absence of infusion reaction with previous cycle. 
+~ Circulating lymphocyte count less than or equal to 5000 /µL prior to initiation of rapid infusion
+~ Pre-medication with acetaminophen, antihistamine, and glucocorticoid component of their chemotherapy prior to Rituxan infusion.
+Infusion-related reaction with rituximab: STOP infusion immediately, and begin primary solution at wide open rate, notify MD, begin monitoring vital signs and administer PRN medication for infusion reaction; 30 minutes after symptoms have resolved restart rituximab infusion at 50% of the rate when reaction occurred.    Complete Chemotherapy/Medication Reaction Documentation flowsheet.
 Administer vesicant IVP, using free flow method or side arm technique, once IV patency is confirmed.
 If administering vesicant IVP, verify blood return every 2 to 5 mL during administration.
 If being administered IVPB via a peripheral IV, administer via gravity over 5 to 10 minutes while being observed.
